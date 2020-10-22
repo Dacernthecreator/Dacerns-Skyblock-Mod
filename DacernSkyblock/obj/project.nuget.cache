@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mlP/ukqPzzL3ESThItKhDhYtOA0dwl2sTSTxaPIRkuRqBOxmO0zH0WJzmeZmLSCH6z1yM0+63xp2tbBiXal7SQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mojon\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\DacernSkyblock\\DacernSkyblock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mojon\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

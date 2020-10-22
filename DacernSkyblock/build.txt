@@ -1,0 +1,5 @@
+displayName = Dacern's skyblock mod
+author = Daern The Creator
+version = 0.1
+includePDB = true
+homepage = https://discord.gg/ZEfRQ82
